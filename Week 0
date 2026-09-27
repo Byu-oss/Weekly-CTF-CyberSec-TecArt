@@ -1,1 +1,18 @@
+1 challange UNDO
+
+menyambung ke remote challange server dengan "nc foggy-cliff.picoctf.net 61946"
+men-decode dengan base64, dengan command "base64 -d"
+men-reverse dengan command "rev"
+menukar - dengan _ menggunakan command "tr '-' '_' "
+menukar () dengan {} menggunakan command "tr '()' '{}' "
+men-decode dengan ROT13 menggunakan command "tr 'a-aZ-Z' 'n-za-mN-Za-M'
+
+
+2 challange information
+mendownload file png dengan command "wget (link)"
+
+2. membuka metadata dengan command "exiftool cat.img" 
+
+mendecode dengan base64 menggunakan command "echo "-" | base64 -d"
+
 
